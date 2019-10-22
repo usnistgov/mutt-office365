@@ -1,0 +1,3 @@
+x-mozilla-flags=save
+text/plain;; x-mozilla-flags=internal
+text/html; w3m -s -o display_link_number=1 -graph -I %{charset} -T text/html; copiousoutput;

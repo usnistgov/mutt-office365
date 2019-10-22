@@ -144,5 +144,6 @@ set edit_headers
 unset fcc_attach
 set include=yes
 set move=no
-set print_command="enscript -G | lp"	# Prints to default printer
+set print_command="enscript -G | lp"		# Prints to default printer
 set query_command="lbdbq %s 2>/dev/null"	# Requires lbdb install and config
+set mailcap_path="~/.mutt/mailcap"
