@@ -1,7 +1,12 @@
 mutt-office365
 ==============
 
-A mutt configuration file ready for Office 365
+A mutt configuration file ready for Office 365 (with a few NIST enhancements)
+
+Forked from github.com/ork/mutt-office365 .
+
+To enable directory lookups against NIST's LDAP (on campus only), please see NIST.md
+also in this directory.
 
 ## Preamble
 

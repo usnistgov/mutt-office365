@@ -1,7 +1,8 @@
 # User config
 set my_realname="John Smith"
-set my_username="john.smith"
-set my_domain="example.com"
-set my_password="This password is secure"
-set my_lang="en_US"
+set my_username="jsmith"
 
+# Below should not need to be changed unless you prefer a different language
+set my_domain="nist.gov"
+#set my_password="This password is insecure"	# insecure, do not set, mutt will prompt
+set my_lang="en_US"
